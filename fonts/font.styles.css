@@ -1,0 +1,31 @@
+/* Orbitron */
+@font-face {
+	font-family: 'Orbitron';
+	src: url('/fonts/Orbitron-SemiBold.ttf') format('truetype');
+	font-weight: 600; /* SemiBold */
+}
+
+@font-face {
+	font-family: 'Orbitron';
+	src: url('/fonts/Orbitron-Medium.ttf') format('truetype');
+	font-weight: 500; /* Medium */
+}
+
+@font-face {
+	font-family: 'Orbitron';
+	src: url('/fonts/Orbitron-Regular.ttf') format('truetype');
+	font-weight: 400; /* Regular */
+}
+
+/* TitilliumWeb */
+@font-face {
+	font-family: 'TitilliumWeb';
+	src: url('/fonts/TitilliumWeb-SemiBold.ttf') format('truetype');
+	font-weight: 600; /* SemiBold */
+}
+
+@font-face {
+	font-family: 'TitilliumWeb';
+	src: url('/fonts/TitilliumWeb-Regular.ttf') format('truetype');
+	font-weight: 400; /* Regular */
+}
